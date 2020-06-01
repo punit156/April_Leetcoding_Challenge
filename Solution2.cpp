@@ -23,7 +23,6 @@ public:
             count--;
             return Square(sum,count);
         }
-        
     }
     bool isHappy(int n) {
         int count = 50;
